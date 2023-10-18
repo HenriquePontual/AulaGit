@@ -1,3 +1,20 @@
 Atividade de Tópicos Especias
 Aluno: Henrique Barbosa da Silva
 
+°Commit: Um "commit" no Git é uma ação que registra as mudanças em um repositório. Cada commit possui uma mensagem descritiva e um instântaneo das alterações feitas.
+
+°Branch: Uma "branch" é uma linha de desenvolvimento independente em um repositório Git, permintindo que várias equipes ou desenvolvedores trabalhem simultaneamente em diferentes recursos.
+
+°Merge: "Merge" é um processo de combinar as alterações de uma branch com outra, muitas vezes utilizado para incorporar o trabalho de desenvolvedores em uma branch principal.
+
+°MainLine: Uma "MainLine" geralmente se refere ao branch principal de um repositório Git, como uma branch "main".
+
+°Clone: "Clone" é uma ação de copiar um repositório Git inteiro, incluindo seu histórico, para seu ambiente de desenvolvimento.
+
+°Push: "Push" é um ato de enviar alterações locais de um repositório para um repositório remoto no Github, tornado-se disponíveis para outras pessoas.
+
+°Pull: "Pull" envolve a obtenção das alterações de um repositório remoto e mesclando-os com o repositório local.
+
+°Staged: As alterações "Staged" no Git são aquelas que foram preparadas para serem incluídas no próximo commit.
+
+°Repository: Um "repositório" é um local onde todos os arquivos, históricos e informações são armazenados.
